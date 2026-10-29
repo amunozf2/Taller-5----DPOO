@@ -1,0 +1,7 @@
+Cliente: Mariana Hernandez
+Dirección: Calle 100 # 15-20
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0
